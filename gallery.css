@@ -1,0 +1,22 @@
+/* Style the gallery container */
+#gallery {
+    margin-top: 20px;
+    text-align: center;
+}
+
+/* Style the featured image */
+#featured-image {
+    border: 2px solid #333;
+    margin-bottom: 10px;
+}
+
+/* Style the thumbnail images */
+#thumbnail-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#thumbnail-list li {
+    display: inline-block;
+    margin: 0 5px;
+}
